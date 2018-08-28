@@ -9,7 +9,7 @@ const levels ={
     hard: 3
 }
 //to change lavel
- const currentLevel = levels.easy;
+ const currentLevel = levels.medium;
 let time = currentLevel;
 let score =0;
 let isPlaying;
